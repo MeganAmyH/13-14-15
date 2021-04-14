@@ -1,0 +1,13 @@
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.exe
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.deps.json
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.runtimeconfig.json
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.runtimeconfig.dev.json
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.dll
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\bin\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.pdb
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.csprojAssemblyReference.cache
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.AssemblyInfoInputs.cache
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.AssemblyInfo.cs
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.csproj.CoreCompileInputs.cache
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.dll
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.pdb
+C:\Users\megan\source\repos\Excercise 13 - 14 - 15\Excercise 13 - 14 - 15\obj\Debug\netcoreapp3.1\Excercise 13 - 14 - 15.genruntimeconfig.cache
